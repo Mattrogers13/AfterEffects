@@ -1,8 +1,5 @@
 # Turntable Looping Expression
 
-tags:after_effects/expressions
-
----
 
 [https://www.youtube.com/watch?v=FHMEtD84Xrw](https://www.youtube.com/watch?v=FHMEtD84Xrw)
 

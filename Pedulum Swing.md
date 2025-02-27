@@ -1,10 +1,7 @@
 # Pedulum Swing
 
-tags:after_effects/expressions
 
----
-
-[http://www.macprovideo.com/hub/after-effects/create-swinging-banner-in-after-effects](http://www.macprovideo.com/hub/after-effects/create-swinging-banner-in-after-effects)
+Source: http://www.macprovideo.com/hub/after-effects/create-swinging-banner-in-after-effects](http://www.macprovideo.com/hub/after-effects/create-swinging-banner-in-after-effects)
 
 ---
 

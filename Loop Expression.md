@@ -1,10 +1,6 @@
 # Loop Expression
 
-tag:after_effects/expressions
-
----
-
-[https://www.schoolofmotion.com/blog/loop-expression-after-effects](https://www.schoolofmotion.com/blog/loop-expression-after-effects)
+Source: [https://www.schoolofmotion.com/blog/loop-expression-after-effects](https://www.schoolofmotion.com/blog/loop-expression-after-effects)
 
 [Download Project File and PDF Guide](https://www.schoolofmotion.com/blog/loop-expression-after-effects#)
 

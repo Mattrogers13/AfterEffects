@@ -1,9 +1,6 @@
 # toComp
 
-tags:after_effects/expressions
-
----
-
+##### Sources
 [https://motionarray.com/blog/6-common-after-effects-expressions-you-should-be-using](https://motionarray.com/blog/6-common-after-effects-expressions-you-should-be-using)
 
 [https://ukramedia.com/tip2/](https://ukramedia.com/tip2/)

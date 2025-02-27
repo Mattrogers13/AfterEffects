@@ -1,7 +1,7 @@
 
 # Elastic Connection
 
-[http://www.motionscript.com/design-guide/elastic.html](http://www.motionscript.com/design-guide/elastic.html)
+Source: http://www.motionscript.com/design-guide/elastic.html](http://www.motionscript.com/design-guide/elastic.html)
 
 ---
 

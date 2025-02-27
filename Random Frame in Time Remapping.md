@@ -1,8 +1,5 @@
 # Random Frame in Time Remapping
 
----
-
-## tag: after_effects/expressions
 
 ```
 fr = 5; // Frame rate, if set to 0 (zero), then one frozen frame will be displayed;

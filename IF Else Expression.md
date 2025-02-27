@@ -1,8 +1,6 @@
 # IF / Else Expression
 
----
-
-## tags:after_effects/expressions
+Source: https://www.premiumbeat.com/blog/use-ifelse-statements-effects/
 
 ## If/Else expressions are incredibly useful in After Effects…if you know how to use them.
 
